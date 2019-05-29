@@ -1,2 +1,2 @@
-# -50-
-cpp
+# https://leetcode-cn.com/problemset/50/
+
